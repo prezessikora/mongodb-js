@@ -1,0 +1,5 @@
+# Local MacOS MongoDB commands
+
+brew services start mongodb-community@6.0
+brew services stop mongodb-community@6.0
+mongosh
